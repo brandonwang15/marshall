@@ -54,7 +54,7 @@ Maintainer: Alan Cheng [AlDCheng](https://github.com/AlDCheng)
 ### Roomba Generator
 Generates the location of fake roombas, for use with SITL simulation.
 
-Maintainer: Brandon TODO [todo](todo)
+Maintainer: Brandon TODO [brandonwang15](https://github.com/brandonwang15)
 
 # Other
 
